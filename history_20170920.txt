@@ -6,12 +6,15 @@
     6  git-download
     7  echo &PATH
     8  whereis ls
+Parāda kur atrodas....
     9  echo $PATH
    10  ls -l /bin/ls
    11  cat /bin/ls
    12  ls -l
    13  pwd
+Mājas.
    14  ls
+Failu saturs.
    15  pwd
    16  PATH=$PATH:/home/user
    17  echo $PATH
@@ -32,13 +35,21 @@
    32  cd DMI
    33  ls -la
    34  ls -l
+Objektu papildinformācija.
    35  mv /home/user/git-download ./
+Pārvietot faili uz citu failu.
    36  -l
    37  ls -l
    38  PATH=$PATH:~/DMI
    39  git-download 
+
    40  ls -l
+
    41  rm -rf DMI/
+Izdzēš nevajadzīgo mapi.
    42  ls -l
+Parāda sarakstu ar mapēm, kas atrodas uz datora.
    43  nano git-upload
+Veikt kaut kādas izmaiņas failā.
    44  history > history_20170920.txt
+Pārdēvēt esošo mapi uz jauno nosaukumu.
