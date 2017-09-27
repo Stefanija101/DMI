@@ -1,0 +1,33 @@
+    1  VirtualBox --startvm XP
+    2  _ALi
+    3  name Stefanija
+    4  NAME="Stefānija Prāme"
+    5  mainiigais_1=10
+    6  echo $maiinigais_1
+    7  nano shell_examples.sh
+    8  ls -la
+    9  cat shell_examples.sh
+   10  pwd
+   11  PATH=$PATH:~/DMI
+   12  echo $PATH
+   13  shell_examples.sh
+   14  chmod 744 shell_examples.sh
+   15  ls -la
+   16  shell_examples.sh 
+   17  ls -la
+   18  cat shell_examples.sh 
+   19  ls -la
+   20  nano shell_examples.sh 
+   21  shell_examples.sh 
+   22  cat shell_examples.sh 
+   23  nano shell_examples.sh 
+   24  ls -la
+   25  shell_examples.sh 
+   26  nano shell_examples.sh 
+   27  shell_examples.sh 
+   28  nano shell_examples.sh 
+   29  shell_examples.sh 
+   30  cat shell_examples.sh 
+   31  pwd
+   32  ls -la
+   33  history > history_20170927.txt
