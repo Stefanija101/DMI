@@ -1,7 +1,31 @@
 
 #!/bin/bash
 
+# 4. piemērs - operācijas ar argumentiem
+if [ $# == 2 ]
+# ja (if) skriptam nodot argumentu skaits ($#) ir vienāds (==) ar $
+then
+# tad tiek izpildītas visas sekojošās darbības līdz ...
+a=$1
+b=$2
+
+val41=`expr $a + $b`
+echo "$a + $b = "$val41
+val42=`expr $a - $b`
+echo "$a - $b = "$val42
+val43=`expr $a \* $b`
+echo "$a * $b = "$val43
+val44=`expr $a / $b`
+echo "$a / $b = "$val44
+val45=`expr $a % $b`
+echo "$a % $b = "$val45
+# šai vietai
+fi
+
+ 
+
 # 3. piemērs - operācijas ar mainīgajiem
+: <<'END'
 a=56
 b=-32
 val31=`expr $a + $b`
@@ -15,6 +39,7 @@ echo "$a / $b = "$val34
 val35=`expr $a % $b`
 echo "$a % $b = "$val35
 
+END
 # 2. piemērs - operācijas ar konstantēm
 : <<'END'
 val21=`expr 2 + 3`

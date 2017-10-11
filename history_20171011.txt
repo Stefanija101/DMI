@@ -63,3 +63,29 @@
    63  git-upload
    64  nano git-upload
    65  history > history_20171011.txt
+   66  ./git-upload
+   67  nano shell_operations.sh 
+   68  ./shell_operations.sh
+   69* 
+   70  ./shell_operations.sh
+   71  nano shell_operations.sh 
+   72  ./shell_operations.sh
+   73  nano shell_operations.sh 
+   74  ./shell_operations.sh
+   75  nano shell_operations.sh 
+   76  ./shell_operations.sh
+   77  nano shell_operations.sh 
+   78  ./shell_operations.sh
+   79  nano shell_operations.sh 
+   80  ./shell_operations.sh 5 10
+   81  ./shell_operations.sh 78 96
+   82  ./shell_operations.sh 78 7896
+   83  nano shell_operations.sh 
+   84  ./shell_operations.sh 1 56
+   85  nano dialogs.sh
+   86  chmod 744 dialogs.sh
+   87  ./dialogs.sh
+   88  nano dialogs.sh
+   89  ./dialogs.sh
+   90  nano git-upload
+   91  history > history_20171011.txt
