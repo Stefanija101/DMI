@@ -1,0 +1,65 @@
+    1  #!/bin/sh
+    2  a=10
+    3  'ēxpr $a + $b
+    4  #!/bin/sh
+    5  'ēxpr 2 + 2'
+    6  'expr 2 + 2'
+    7  val='expr 2 + 2'
+    8  'expr $a + $b'
+    9  echo "Total value : $val"
+   10  echo 'ēxpr $a + $b'
+   11  echo 'expr $a + $b'
+   12  'expr $a + $b'
+   13  #!/bin/sh
+   14  a=10
+   15  b=20
+   16  'expr $a + $b'
+   17  echo 'expr $a + $b'
+   18  echo 'expr 2 + 2'
+   19  #!/bin/sh
+   20  val='expr 2 + 2'
+   21  echo 'Total value : $val"
+   22  a=b
+   23  temp shell_operations.sh
+   24  nano shell_operations.sh
+   25  chmod 744 shell_operations.shchmod 744 shell_operations.sh
+   26  nano shell_operations.sh
+   27  chmod 744  shell_operations.sh
+   28  ls -la
+   29  ./shell_operations.sh
+   30  nano shell_operations.sh
+   31  ./shell_operations.sh
+   32  nano shell_operations.sh
+   33  ./shell_operations.sh
+   34  nano shell_operations.sh 
+   35  ./shell_operations.sh
+   36  nano shell_operations.sh 
+   37  ./shell_operations.sh
+   38  nano shell_operations.sh 
+   39  ./shell_operations.sh
+   40  nano shell_operations.sh 
+   41  ./shell_operations.sh
+   42  nano shell_operations.sh 
+   43  ./shell_operations.sh
+   44  nano shell_operations.sh 
+   45  ./shell_operations.sh
+   46  nano shell_operations.sh 
+   47  ./shell_operations.sh
+   48  nano shell_operations.sh 
+   49  ./shell_operations.sh
+   50  nano shell_operations.sh 
+   51  ./shell_operations.sh
+   52  nano shell_operations.sh 
+   53  ./shell_operations.sh
+   54  nano shell_operations.sh 
+   55* 
+   56  ./shell_operations.sh
+   57  nano shell_operations.sh 
+   58  ./shell_operations.sh
+   59  nano shell_operations.sh 
+   60  ./shell_operations.sh
+   61  nano shell_operations.sh 
+   62  nano gitupload
+   63  git-upload
+   64  nano git-upload
+   65  history > history_20171011.txt
