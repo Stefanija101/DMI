@@ -1,0 +1,53 @@
+    1  git clone https://github.com/Stefanija101.git
+    2  firefox &
+    3  firefox $
+    4  git clone https://github.com/Stefanija101
+    5  git clone https://github.com/Stefanija101/DMI
+    6  nano dialogs.sh
+    7  nano dialogs2.sh
+    8  chmod 744 dialogs2.sh
+    9  ./dialogs2.sh
+   10  nano dialogs2.sh
+   11  ./dialogs2.sh
+   12  nano dialogs2.sh
+   13  ./dialogs2.sh
+   14  nano dialogs2.sh
+   15  ./dialogs2.sh
+   16  nano dialogs2.sh
+   17  ./dialogs2.sh
+   18  nano dialogs2.sh
+   19  ./dialogs2.sh
+   20  nano dialogs2.sh
+   21  ./dialogs2.sh
+   22  nano dialogs2.sh
+   23  ./dialogs2.sh
+   24  nano dialogs2.sh
+   25  ./dialogs2.sh
+   26  nano dialogs2.sh
+   27  ./dialogs2.sh
+   28  nano dialogs2.sh
+   29  ./dialogs2.sh
+   30  nano dialogs2.sh
+   31  ./dialogs2.sh
+   32  nano dialogs2.sh
+   33  ./dialogs2.sh
+   34  nano dialogs2.sh
+   35  ./dialogs2.sh
+   36  nano dialogs2.sh
+   37  ./dialogs2.sh
+   38  nano dialogs2.sh
+   39  ./a_vs_b.sh
+   40  nano a_vs_b.sh
+   41  ./dialogs2.sh
+   42  nano dialogs2.sh
+   43  nano a_vs_b.sh
+   44  nano dialogs2.sh
+   45  nano a_vs_b.sh
+   46  nano dialogs2.sh
+   47* 
+   48  ./a_vs_b.sh
+   49  chmod 744 a_vs_b.sh
+   50  ./a_vs_b.sh 
+   51  nano a_vs_b.sh
+   52  ./a_vs_b.sh 
+   53  history > history_20171018.txt
